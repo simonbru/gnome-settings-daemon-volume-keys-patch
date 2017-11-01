@@ -1,4 +1,4 @@
-# gnome-settings-daemon-volume-step-patch
+# gnome-settings-daemon-volume-keys-patch
 Archlinux PKGBUILD for gnome-settings-daemon with additional settings for volume keys
 
 ## Details
